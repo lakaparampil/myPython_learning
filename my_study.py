@@ -1,2 +1,5 @@
 print("Hello, dear EZER!")
+print("Welcome to my study script.")
 print("Hello, dear Ezza!")
+print("I am in pre-school")
+print("I love programming!")
